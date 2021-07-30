@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+
+.hidden {
+  display: none;
+}
+
+body{
+  background-color: #003638;
+  text-align: center;
+}
+h1{
+  color: #53B8BB;
+  font-size: 40px;
+}
+h3{
+  color: #53B8BB;
+  font-size: 30px;
+}
+h6{
+  color: #F3F2C9;
+  font-size: 25px;
+}
+
+#lower-message{
+  color: #F3F2C9;
+  font-size: 20px;
+}
+
+#higher-message{
+  color: #F3F2C9;
+  font-size: 20px;
+}
+
+#win-message{
+  color: #F3F2C9;
+  font-size: 20px;
+}
+
+#lose-message{
+  color: #F3F2C9;
+  font-size: 20px;
+}
